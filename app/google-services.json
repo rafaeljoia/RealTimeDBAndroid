@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "528072031980",
+    "firebase_url": "https://exemplorealtimedb.firebaseio.com",
+    "project_id": "exemplorealtimedb",
+    "storage_bucket": "exemplorealtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528072031980:android:289825e067c365d0",
+        "android_client_info": {
+          "package_name": "br.com.inatel.exemplorealtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528072031980-ihsohvo1ki2h00u3vdslasrguoqt0h76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.inatel.exemplorealtimedb",
+            "certificate_hash": "fc04e05409692aab8fb461d124827a567e207e83"
+          }
+        },
+        {
+          "client_id": "528072031980-gpigu4nrkbqlt6ol70c76srvj8qe1qmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFaIj-5Q4QCGlIqjEGbnP4FUO0YQHDbbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528072031980-gpigu4nrkbqlt6ol70c76srvj8qe1qmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
